@@ -88,6 +88,11 @@ Change log
 
 - first published version
 
+0.3.1
+^^^^^
+
+- corrected the readme file.
+
 
 Authors
 -------

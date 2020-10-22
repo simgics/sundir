@@ -88,6 +88,11 @@ sundir
 
 - first published version
 
+0.3.1
+^^^^^
+
+- corrected the readme file.
+
 
 作成者
 ------
