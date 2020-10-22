@@ -84,7 +84,7 @@ class SunDirCalc:
     def _argument_parse(self):
         """Analyze the arguments."""
         parser = argparse.ArgumentParser(description="Calculate the AZ, EL of the sun.")
-        parser.add_argument("--version", action="version", version="sundir 0.3.0")
+        parser.add_argument("--version", action="version", version="sundir 0.3.1")
 
         parser.add_argument("lat", help="latitude ex: 35d37m51s or 35.6799d")
         parser.add_argument("lon", help="longitude ex: 139d47m3s or 139.6806d")
