@@ -27,7 +27,7 @@ sundir
 
 ::
 
-    sundir 139d47m3s 35d37m0s --date "2020/09/18 13:00:00" --repeat 10
+    sundir 35d37m0s 139d47m3s --date "2020/09/18 13:00:00" --repeat 10
     
     latitude    : 35d37m0s
     longitude   : 139d47m3s
@@ -87,6 +87,11 @@ sundir
 ^^^^^
 
 - first published version
+
+0.3.1
+^^^^^
+
+- corrected the readme file.
 
 
 作成者
